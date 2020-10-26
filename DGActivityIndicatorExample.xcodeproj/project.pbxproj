@@ -12,7 +12,7 @@
 		05257DA71B10E796006354A6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 05257DA61B10E796006354A6 /* ViewController.m */; };
 		05257DAC1B10E796006354A6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05257DAB1B10E796006354A6 /* Images.xcassets */; };
 		05257DBB1B10E796006354A6 /* DGActivityIndicatorExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 05257DBA1B10E796006354A6 /* DGActivityIndicatorExampleTests.m */; };
-		6ACB8A24254691440084B56D /* DGActivityIndicator.h in Headers */ = {isa = PBXBuildFile; fileRef = 6ACB8A22254691440084B56D /* DGActivityIndicator.h */; };
+		6ACB8A24254691440084B56D /* DGActivityIndicator.h in Headers */ = {isa = PBXBuildFile; fileRef = 6ACB8A22254691440084B56D /* DGActivityIndicator.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6ACB8A27254691440084B56D /* DGActivityIndicator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6ACB8A20254691440084B56D /* DGActivityIndicator.framework */; };
 		6ACB8A28254691440084B56D /* DGActivityIndicator.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 6ACB8A20254691440084B56D /* DGActivityIndicator.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		6ACB8A7A254691990084B56D /* DGActivityIndicatorView.h in Headers */ = {isa = PBXBuildFile; fileRef = 6ACB8A32254691980084B56D /* DGActivityIndicatorView.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -464,8 +464,8 @@
 				6ACB8ACF254691990084B56D /* DGActivityIndicatorBallScaleRippleAnimation.h in Headers */,
 				6ACB8A9C254691990084B56D /* DGActivityIndicatorBallSpinFadeLoader.h in Headers */,
 				6ACB8AA9254691990084B56D /* DGActivityIndicatorLineScalePulseOutRapidAnimation.h in Headers */,
-				6ACB8A7A254691990084B56D /* DGActivityIndicatorView.h in Headers */,
 				6ACB8A90254691990084B56D /* DGActivityIndicatorBallPulseSyncAnimation.h in Headers */,
+				6ACB8A7A254691990084B56D /* DGActivityIndicatorView.h in Headers */,
 				6ACB8A24254691440084B56D /* DGActivityIndicator.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
